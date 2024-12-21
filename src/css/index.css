@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Ubuntu Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.libraryslide:hover{
+   border: 2px solid;
+}
+
+.playlisttabsright{
+    height: 84%;
+}
+.playbtn{
+    background-color: #1fc75a;
+    transition:   all 50ms ease-out;
+}

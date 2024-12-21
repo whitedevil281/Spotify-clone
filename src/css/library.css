@@ -1,0 +1,17 @@
+.sidebarleft{
+    width: 22%;
+    border-radius: 10px;
+    height:89vh;
+}
+
+
+.controls{
+    height: 11vh
+}
+
+.right{
+    height: 89vh;
+}
+.playlistscon{
+    height: 73vh;
+}
